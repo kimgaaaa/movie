@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/app_project_kimgaeun/static/css/main.99d7cef5.css",
+    "main.js": "/app_project_kimgaeun/static/js/main.ccd10312.js",
+    "index.html": "/app_project_kimgaeun/index.html",
+    "main.99d7cef5.css.map": "/app_project_kimgaeun/static/css/main.99d7cef5.css.map",
+    "main.ccd10312.js.map": "/app_project_kimgaeun/static/js/main.ccd10312.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.99d7cef5.css",
+    "static/js/main.ccd10312.js"
+  ]
+}
