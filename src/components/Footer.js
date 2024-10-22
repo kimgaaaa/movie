@@ -1,6 +1,7 @@
 import React, {useState} from 'react';
 import { BiCameraMovie } from "react-icons/bi";
 import {Link} from 'react-router-dom';
+import '../App.scss'
 
 const Footer = () => {
     const [isHovering, setIsHovering] = useState(false);

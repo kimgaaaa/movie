@@ -16,6 +16,7 @@ const Navbar = () => {
             <li><NavLink to="movies" style={({isActive})=>(isActive?activeStyle : undefined)}>Movies</NavLink></li>
             <li><NavLink to="events" style={({isActive})=>(isActive?activeStyle : undefined)}>Event</NavLink></li>
             <li><NavLink to="users" style={({isActive})=>(isActive?activeStyle : undefined)}>Users</NavLink></li>
+            <li><NavLink to="about" style={({isActive})=>(isActive?activeStyle : undefined)}>About</NavLink></li>
          </ul>
       </nav>
    );

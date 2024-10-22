@@ -24,6 +24,7 @@ function App() {
             <Route path="/events/:id" element={<Event />} />
             <Route path="/users" element={<Users />} />
             <Route path="/users/:id" element={<User />} />
+            
          </Routes>
          <Footer />
       </div>
